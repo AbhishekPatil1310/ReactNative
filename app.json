@@ -44,6 +44,9 @@
       "typedRoutes": true,
       "reactCompiler": true
     },
+        "android": {
+      "package": "com.abhishek.mylistapp"
+    },
     "extra": {
       "router": {},
       "eas": {
