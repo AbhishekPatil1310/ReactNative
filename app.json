@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyListApp",
-    "slug": "MyListApp",
+    "name": "MyList",
+    "slug": "MyList",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
